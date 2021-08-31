@@ -1,4 +1,3 @@
-- label: "Preview"
-  message: "PR $prNumber"
-  color: "blue"
-  url: "https://pr-$prNumber.company.com"
+ label: "Hello"
+  message: "World"
+  color: "green"

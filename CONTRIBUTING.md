@@ -52,7 +52,9 @@ Also strictly follow our table of contents and make the required changes accordi
     test.py
 
 # Attribution
-Code of Conduct was adapted from [Contributor Convenant].[homepage].
+Code of Conduct was adapted from [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 
 

@@ -2,4 +2,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/401190921.svg)](https://zenodo.org/badge/latestdoi/401190921)
 # SE_HW2b
-Homework Assignment 2b submission Software Engineering
+This is a group homework assignment 2b of Group 12 for the course Software Engineering.

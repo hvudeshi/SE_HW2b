@@ -6,6 +6,6 @@ def test_answer():
 	assert isPalindrome("HomeWork 2 Github Homework") == False
 	assert isPalindrome("reviver") == True
 	assert isPalindrome("Group12orG") == False
-	assert isPalindrome("Was it a cat I saw") == True
+	assert isPalindrome("was it a cat I saw") == True
 	assert isPalindrome("SE is cool SE") == False
 	assert isPalindrome("rotator") == True

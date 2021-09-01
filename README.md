@@ -5,3 +5,13 @@
 This is a group homework assignment 2b of Group 12 for the course Software Engineering.
 
 Here there is a program which checks whether a string is a palindrome string or not.
+
+# Authors
+1. Hardik Udeshi (hvudeshi@ncsu.edu)
+2. Het Patel (hpatel28@ncsu.edu)
+3. Vineet Chheda (vchheda@ncsu.edu)
+4. Saloni Mahatma (smahatm@ncsu.edu)
+5. Kalgee Kotak (kkotak@ncsu.edu)
+
+# Version History
+- 1.0.0 - First Release

@@ -2,6 +2,10 @@ def isPalindrome(s):
     return s == s[::-1]
 
 def test_answer():
-	assert isPalindrome("hiih") == True
-	assert isPalindrome("not a palindrome") == False
-	assert isPalindrome("holloh") == True
+	assert isPalindrome("software engineering gnireenigne erawtfos") == True
+	assert isPalindrome("HomeWork 2 Github Homework") == False
+	assert isPalindrome("reviver") == True
+	assert isPalindrome("Group12orG") == False
+	assert isPalindrome("Was it a cat I saw") == True
+	assert isPalindrome("SE is cool SE") == False
+	assert isPalindrome("rotator") == True

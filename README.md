@@ -5,6 +5,7 @@
 This is a group homework assignment 2b of Group 12 for the course Software Engineering.
 
 Here there is a program which checks whether a string is a palindrome string or not.
+Example : "astsa" is a Palindrome.
 
 # Authors
 1. Hardik Udeshi (hvudeshi@ncsu.edu)

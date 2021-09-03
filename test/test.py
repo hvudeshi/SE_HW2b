@@ -1,6 +1,6 @@
 def isPalindrome(s):
     return s == s[::-1]
-
+ 
 def test_answer():
 	assert isPalindrome("software engineering gnireenigne erawtfos") == True
 	assert isPalindrome("HomeWork 2 Github Homework") == False
